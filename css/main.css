@@ -27,7 +27,12 @@ main {
   width: 60%;
   display: inline-block;
 }
-footer {
-  display: inline-block;
+ul {
+  text-align: center;
+  list-style: none;
   margin: 0 auto;
+  max-width: 80%;
+}
+li {
+  display: inline-block;
 }
