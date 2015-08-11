@@ -36,7 +36,7 @@ header button {
   display: inline-block;
   border-radius: 3px;
   border-color: #1c5380;
-  font-size: 16px;
+  font-size: 14px;
   color: white;
   margin: 15px;
   padding: 5px 15px 10px 10px;
@@ -50,7 +50,7 @@ header button img {
   background-repeat: no-repeat;
   max-width: 504px;
   margin-top: 25px;
-  padding: 20px;
+  padding: 25px;
 }
 #text img {
   padding-left: 15px;
@@ -63,12 +63,13 @@ h1 {
   padding: 10px 15px;
 }
 p{
-  font-size: 16px;
-  line-height: 24px;
-  padding: 10 15px;
+  font-size: 15px;
+  line-height: 22px;
+  padding: 10px 20px 20px 15px;
   margin: 0;
 }
 ul {
+  padding-left: 0;
   text-align: center;
   list-style: none;
   margin: 0 auto;
@@ -76,11 +77,12 @@ ul {
 }
 li {
   display: inline-block;
-  padding: 10px;
+  padding: 5px;
 }
 footer {
-  margin: 10px auto;
-  font-size: 12px;
+  color: #1c5380;
+  margin: 20px auto;
+  font-size: 11px;
   text-transform: uppercase;
   font-weight: bold;
 }
